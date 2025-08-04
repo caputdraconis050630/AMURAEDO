@@ -60,4 +60,4 @@ logs/
 
 # 데이터셋
 1-ultra-short-traffic-prediction/data/*
-2-ultra-short-traffic-prediction/data/*
+2-realtime-traffic-prediction/data/*
